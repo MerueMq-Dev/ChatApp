@@ -1,8 +1,0 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="D:\С#\Deploy\ChatApp\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="D:\С#\Deploy\ChatApp\Client\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="D:\С#\Deploy\ChatApp\Client\wwwroot\" />
-  <ContentRoot BasePath="_content/Blazored.Toast" Path="C:\Users\azatk\.nuget\packages\blazored.toast\3.2.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\azatk\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\5.0.11\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\azatk\.nuget\packages\radzen.blazor\3.11.4\build\..\staticwebassets\" />
-</StaticWebAssets>
