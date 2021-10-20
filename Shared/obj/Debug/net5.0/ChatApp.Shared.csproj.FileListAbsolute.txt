@@ -1,0 +1,12 @@
+D:\С#\Deploy\ChatApp\Shared\bin\Debug\net5.0\ChatApp.Shared.deps.json
+D:\С#\Deploy\ChatApp\Shared\bin\Debug\net5.0\ChatApp.Shared.dll
+D:\С#\Deploy\ChatApp\Shared\bin\Debug\net5.0\ref\ChatApp.Shared.dll
+D:\С#\Deploy\ChatApp\Shared\bin\Debug\net5.0\ChatApp.Shared.pdb
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.AssemblyInfoInputs.cache
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.AssemblyInfo.cs
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.csproj.CoreCompileInputs.cache
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.dll
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ref\ChatApp.Shared.dll
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.pdb
+D:\С#\Deploy\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.csprojAssemblyReference.cache
